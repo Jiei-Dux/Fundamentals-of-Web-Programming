@@ -1,0 +1,14 @@
+div { 
+  width: 1000px;
+  padding: 10px;
+  margin: auto;
+}
+
+.excerpt {
+  font-family: "Hack", "FreeSans", "FreeSerif";
+  font-weight: bolder;
+  font-size: 14px;
+  text-decoration: underline;
+  color: #fff;
+  background-color: #000000;
+}

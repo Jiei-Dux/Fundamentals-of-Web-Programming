@@ -1,0 +1,13 @@
+div { 
+  width: 1000px;
+  margin: auto;
+}
+
+.excerpt {
+  font-family: "Nimbus Roman", "Hack", "Cantarell";
+  font-weight: lighter;
+  font-size: 130%;
+  text-decoration: line-through;
+  color: #fff;
+  background-image: url(blacc.jpg);
+}

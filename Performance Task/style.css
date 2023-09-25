@@ -1,0 +1,31 @@
+.Title {
+  text-align: center;
+}
+
+th, td {
+  width: 200px;
+  margin: auto;
+  padding: auto;
+}
+
+table, th, td {
+  border: 2px solid #000000;
+  border-collapse: collapse;
+}
+
+table {
+  border: 10px;
+  margin: auto;
+  padding: auto;
+  text-align: center;
+  border-style: solid dashed solid dotted;
+  border-color: #A2A2A2 #000000 #2EB170 #000000;
+}
+
+tr {
+  height: 40px;
+}
+
+tr.head {
+  height: 80px;
+}
