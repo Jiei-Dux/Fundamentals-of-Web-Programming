@@ -1,0 +1,15 @@
+* {
+  /*margin: auto;*/
+  color: #FFFFFF;
+  background-color: #000000;
+}
+
+body {
+  margin: auto 50px auto 50px;
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}
+
+h1 {
+  text-align: center;
+}
