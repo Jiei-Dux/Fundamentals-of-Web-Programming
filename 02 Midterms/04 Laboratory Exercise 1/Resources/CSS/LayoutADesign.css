@@ -1,9 +1,9 @@
 /* GRID SECTION */
 div.Container {
-  display: grid;
-  padding: 10px;
-  grid-row-gap: 20px;
-  grid-template-rows: auto auto auto auto;
+	display: grid;
+	padding: 10px;
+	grid-row-gap: 20px;
+	grid-template-rows: auto auto auto auto;
 }
 /* GRID SECTION */
 
@@ -12,10 +12,8 @@ div.Container {
 
 /* HEADER SECTION */
 div.Header {
-  top: 0;
-  grid-row: 1;
-  position: sticky;
-  background-color: #D10B0F;
+	grid-row: 1;
+	background-color: #D10B0F;
 }
 /* HEADER SECTION */
 
@@ -24,8 +22,8 @@ div.Header {
 
 /* NAVIGATION SECTION */
 div.Navigation {
-  grid-row: 2;
-  background-color: #6600ba;
+	grid-row: 2;
+	background-color: #6600ba;
 }
 /* NAVIGATION SECTION */
 
@@ -34,38 +32,38 @@ div.Navigation {
 
 /* CONTENT SECTION */
 div.Content {
-  grid-row: 3;
-  display: grid;
-  grid-column-gap: 20px;
-  grid-template-columns: auto 50%;
+  	grid-row: 3;
+  	display: grid;
+  	grid-column-gap: 20px;
+  	grid-template-columns: auto 50%;
 }
 
 p.Article1, p.Article2 {
-  font-size: 18px;
-  text-align: left;
-  padding-left: 40px;
-  padding-right: 40px;
-  background-color: #0ac2c6;
+  	font-size: 18px;
+  	text-align: left;
+  	padding-left: 40px;
+  	padding-right: 40px;
+  	background-color: #0ac2c6;
 }
 
 img.Tux {
-  width: 160px;
-  height: 180px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  	width: 160px;
+  	height: 180px;
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
 }
 
 img.Arch {
-  width: 250px;
-  height: 83px;
-  padding: 5px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 8px;
-  border: 2px solid #054042;
-  background-color: #054042;
+  	width: 250px;
+  	height: 83px;
+  	padding: 5px;
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	border-radius: 8px;
+  	border: 2px solid #054042;
+  	background-color: #054042;
 }
 /* CONTENT SECTION */
 
@@ -74,7 +72,7 @@ img.Arch {
 
 /* FOOTER SECTION */
 div.Footer {
-  grid-row: 4;
-  background-color: #00ba03;
+  	grid-row: 4;
+  	background-color: #00ba03;
 }
 /* FOOTER SECTION */
