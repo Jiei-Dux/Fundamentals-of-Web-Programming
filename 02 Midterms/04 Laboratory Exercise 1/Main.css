@@ -2,8 +2,11 @@ body {
   color: #fff;
   background-color: #000;
 
-  font: 40px Arial;
   text-align: center;
+}
+
+body.Main {
+  font: 40px Arial;
 }
 
 a {
@@ -19,7 +22,7 @@ a:hover {
   cursor: pointer;
 }
 
-.Main {
+div.Main {
   border: solid;
 
   border-color: #fff;
