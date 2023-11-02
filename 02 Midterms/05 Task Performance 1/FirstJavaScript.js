@@ -14,7 +14,7 @@ function firstJavaScript1() {
         alert("No Input... enter something bro...");
     }
     
-    if ( usrInput_Age != null || usrInput_Age == "" ) {
+    if ( usrInput_Age != null || usrInput_Age != "" ) {
         
         if ( usrInput_Age >= 25 ) {
             alert("You are of age!\nYour age is above 24 years old!\nYay!");
@@ -36,7 +36,7 @@ function firstJavaScript2() {
         alert("No Input... enter something bro...");
     }
     
-    if ( usrInput_Number != null || usrInput_Number == "" ) {
+    if ( usrInput_Number != null || usrInput_Number != "" ) {
 
         if ( usrInput_Number < 100 ) {
             alert("That number is less than 100!");
