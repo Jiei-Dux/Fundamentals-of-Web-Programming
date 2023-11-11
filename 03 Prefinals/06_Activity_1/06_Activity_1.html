@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title> 06 Activity 1 </title>
+
+        <script>
+
+            let Numst, Numnd, Numrd, sum;
+
+            function usrInput1() {
+                Numst = prompt("Enter first number: ");
+                Numnd = prompt("Enter second number: ");
+                Numrd = prompt("Enter third number: ");
+
+                threesome(Numst, Numnd, Numrd);
+            }
+            
+
+
+
+            function printName() {
+                console.log("My name is Jay Ducktor");
+                alert("My name is Jay Ducktor");
+            }
+
+            function onePLUSone() {
+                Numst = prompt("Enter first number: ");
+                Numnd = prompt("Enter second number: ");
+
+                sum = JSON.parse(Numst) + JSON.parse(Numnd);
+                console.log(sum);
+                alert(sum)
+            }
+
+            function threesome(Numst, Numnd, Numrd) {
+                sum = 
+                    JSON.parse(Numst) + 
+                    JSON.parse(Numnd) + 
+                    JSON.parse(Numrd);
+
+                console.log(sum);
+                alert(sum);
+            }
+
+        </script>
+
+        <style>
+
+            .BODEH {
+                margin: auto;
+                padding: 100px;
+                text-align: center;
+            }
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <div class="BODEH">
+
+            <button type="button" onclick="printName()"> Show NAME </button>
+            <button type="button" onclick="onePLUSone()"> ADD two numbers </button>
+            <button type="button" onclick="usrInput1()"> ADD three numbers </button>
+
+        </div>
+
+    </body>
+
+</html>
