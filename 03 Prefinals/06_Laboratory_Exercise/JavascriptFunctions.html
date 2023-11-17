@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+        
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+        <title>JavaScript Functions</title>
+
+        <script>
+
+            function askAge() {
+                
+                let artistAge = prompt("What's your favorite artist's age:");
+
+                if ( JSON.parse(artistAge) < 25 ) {
+                    alert("They’re " + artistAge + " years old and they’re younger than Google");
+                }
+
+                if ( JSON.parse(artistAge) == 25 ) {
+                    alert("They’re " + artistAge + " years old and they’re as old as Google")
+                }
+
+                if ( JSON.parse(artistAge) > 25 ) {
+                    alert("They’re " + artistAge + " years old and they’re older than Google")
+                }
+
+            }
+
+        </script>
+
+        <style>
+
+            body {
+                background-color: #000000;
+            }
+
+            .BTN {
+                margin: auto;
+                padding: 100px;
+                text-align: center;
+            }
+
+            .Highlight {
+                padding: 100px;
+                margin: auto 20px auto 20px;
+                background-color: #808080;
+            }
+
+            article {
+                padding: 0px 50px 0px 50px;
+            }
+
+            aside {
+                padding: 0px 100px 0px 100px;
+            }
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <div class="BTN">
+
+            <button type="button" onclick="askAge()"> Ask da question </button>
+
+        </div>
+        
+        <div class="Highlight">
+
+            <main>
+
+                <article>
+
+                    <b>JavaScript Syntax Used in this program:</b>
+
+                </article>
+
+                <br><br>
+
+                <aside>
+
+                    <b>if</b> - This thing just checks if the input satisfies the condition <br><br>
+                    <b>let</b> - This thing just basically assigns data types to the variables. <br><br>
+                    <b>alert</b> - This thing will basically pop up and show the user some info. <br><br>
+                    <b>prompt</b> - This thing will basically pop up and ask the user some info. <br><br>
+                    <b>function</b> - This thing basically just holds the main code and will get called once the button has been pressed. <br><br>
+                    <b>JSON.parse</b> - This thing basically just converts the user input *STRING* into *INTEGER* so the if statements can use it. <br><br>
+
+                </aside>
+
+            </main>
+
+        </div>
+
+
+    </body>
+
+</html>
