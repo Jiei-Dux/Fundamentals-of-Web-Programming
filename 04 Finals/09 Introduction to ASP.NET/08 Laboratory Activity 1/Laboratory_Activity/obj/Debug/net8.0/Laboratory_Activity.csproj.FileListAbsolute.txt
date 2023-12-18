@@ -1,0 +1,15 @@
+/home/dux/REPO/Fundamentals-of-Web-Programming/04 Finals/08 Laboratory Activity 1/Laboratory_Activity/bin/Debug/net8.0/Laboratory_Activity
+/home/dux/REPO/Fundamentals-of-Web-Programming/04 Finals/08 Laboratory Activity 1/Laboratory_Activity/bin/Debug/net8.0/Laboratory_Activity.deps.json
+/home/dux/REPO/Fundamentals-of-Web-Programming/04 Finals/08 Laboratory Activity 1/Laboratory_Activity/bin/Debug/net8.0/Laboratory_Activity.runtimeconfig.json
+/home/dux/REPO/Fundamentals-of-Web-Programming/04 Finals/08 Laboratory Activity 1/Laboratory_Activity/bin/Debug/net8.0/Laboratory_Activity.dll
+/home/dux/REPO/Fundamentals-of-Web-Programming/04 Finals/08 Laboratory Activity 1/Laboratory_Activity/bin/Debug/net8.0/Laboratory_Activity.pdb
+/home/dux/REPO/Fundamentals-of-Web-Programming/04 Finals/08 Laboratory Activity 1/Laboratory_Activity/obj/Debug/net8.0/Laboratory_Activity.GeneratedMSBuildEditorConfig.editorconfig
+/home/dux/REPO/Fundamentals-of-Web-Programming/04 Finals/08 Laboratory Activity 1/Laboratory_Activity/obj/Debug/net8.0/Laboratory_Activity.AssemblyInfoInputs.cache
+/home/dux/REPO/Fundamentals-of-Web-Programming/04 Finals/08 Laboratory Activity 1/Laboratory_Activity/obj/Debug/net8.0/Laboratory_Activity.AssemblyInfo.cs
+/home/dux/REPO/Fundamentals-of-Web-Programming/04 Finals/08 Laboratory Activity 1/Laboratory_Activity/obj/Debug/net8.0/Laboratory_Activity.csproj.CoreCompileInputs.cache
+/home/dux/REPO/Fundamentals-of-Web-Programming/04 Finals/08 Laboratory Activity 1/Laboratory_Activity/obj/Debug/net8.0/Laboratory_Activity.sourcelink.json
+/home/dux/REPO/Fundamentals-of-Web-Programming/04 Finals/08 Laboratory Activity 1/Laboratory_Activity/obj/Debug/net8.0/Laboratory_Activity.dll
+/home/dux/REPO/Fundamentals-of-Web-Programming/04 Finals/08 Laboratory Activity 1/Laboratory_Activity/obj/Debug/net8.0/refint/Laboratory_Activity.dll
+/home/dux/REPO/Fundamentals-of-Web-Programming/04 Finals/08 Laboratory Activity 1/Laboratory_Activity/obj/Debug/net8.0/Laboratory_Activity.pdb
+/home/dux/REPO/Fundamentals-of-Web-Programming/04 Finals/08 Laboratory Activity 1/Laboratory_Activity/obj/Debug/net8.0/Laboratory_Activity.genruntimeconfig.cache
+/home/dux/REPO/Fundamentals-of-Web-Programming/04 Finals/08 Laboratory Activity 1/Laboratory_Activity/obj/Debug/net8.0/ref/Laboratory_Activity.dll

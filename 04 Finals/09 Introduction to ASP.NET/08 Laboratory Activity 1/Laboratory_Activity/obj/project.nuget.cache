@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0hzJY1Zgvq9Txu2UJ8dvaTrgjPI5quNt5uQgdmtK7YDGQalgAJay2NqesajNu/Yw1GGsOjPkBrYWCSBDEej0Ag==",
+  "success": true,
+  "projectFilePath": "/home/dux/REPO/Fundamentals-of-Web-Programming/04 Finals/08 Laboratory Activity 1/Laboratory_Activity/Laboratory_Activity.csproj",
+  "expectedPackageFiles": [
+    "/home/dux/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
